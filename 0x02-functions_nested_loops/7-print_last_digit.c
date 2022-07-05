@@ -11,7 +11,7 @@ if (x < 0)
 {
 y = -1 * (x % 10);
 _putchar(y + '0');
-return (y)
+return (y);
 }
 else
 {
