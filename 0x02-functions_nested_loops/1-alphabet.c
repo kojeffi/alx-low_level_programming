@@ -1,4 +1,4 @@
-nclude "main.h"
+#include "main.h"
 /**
  *print_alphabet - print alphabets
  *Description: print_alphabet use to print a to z
