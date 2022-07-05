@@ -4,14 +4,14 @@
 *@n: the int to check
 *Return: the absolute value of int
 */
-int _abs(int f)
+int _abs(int n)
 {
-if (f >= 0)
+if (n >= 0)
 {
-return (f);
+return (n);
 }
 else
 {
-return (-f);
+return (-n);
 }
 }
