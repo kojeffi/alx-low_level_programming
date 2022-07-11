@@ -31,7 +31,7 @@ if (s[x] == '-')
 neg *= -1;
 else if (s[x] <= '9' && s[x] >= '0')
 {
-num += (s[x] - '0') * mult * neg;
+num += (s[x] - '0') * mult *neg;
 mult /= 10;
 }
 }
